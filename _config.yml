@@ -16,7 +16,7 @@ timezone:
 
 title: 博客 # the main title
 
-tagline: 技术分享 # it will display as the sub-title
+tagline: 个人分享 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
